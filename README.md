@@ -1,0 +1,1 @@
+This website was developed for a embroidery business store, with underscores starter theme. The site can be found live at embroidit.us
